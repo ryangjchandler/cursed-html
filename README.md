@@ -1,6 +1,6 @@
 # Cursed HTML
 
-Who said HTML couldn't work as a programming language?
+Who said HTML wasn't a programming language?
 
 ![](./screenshot.png)
 
